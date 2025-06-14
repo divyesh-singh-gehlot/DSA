@@ -1,3 +1,7 @@
+//Map -> Unique Key and Sorted
+//Multimap -> Keys are not unique but Sorted
+//Unordered map -> Keys are unique but not sorted
+
 #include<bits/stdc++.h>
 using namespace std;
 

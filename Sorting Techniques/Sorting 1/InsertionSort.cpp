@@ -1,3 +1,7 @@
+//This gives the Worst and average time complexity of O(N^2)
+//To get the the best time complexity, check if any swap is performed in the firt run and if the swap is not performed, we'll know that the array is sorted so we break out.
+//This gives us the best time complexity as O(N) as we run loop only N times.
+
 #include<bits/stdc++.h>
 using namespace std;
 
